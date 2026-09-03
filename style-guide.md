@@ -15,7 +15,7 @@ Os designs foram criados nas seguintes larguras:
 
 - Navy 950 (fundo principal): hsl(233, 47%, 7%)
 - Blue 950 (fundo do card): hsl(244, 37%, 16%)
-- Purple 500 (destaque): hsl(277, 64%, 61%)
+- Purple 500 (destaque): #aa5cdb
 
 ### Neutras
 
