@@ -10,10 +10,11 @@
 }
 
 .informacoesTitulo  h1  p {
-    padding: 20px;
-    border-radius: 6px;
-    margin-bottom: 3px;
+    padding: 15px;
+    border-radius: 0px;
+    margin-bottom: 0px;
     color: #aa5cdb;
+    font-size: 30px;
 }
 
 .informacoesTitulo {
@@ -25,6 +26,7 @@ color: #f5f3f7;
     line-height: 1.2;
     margin-bottom: 20px;
 }
+
 .informacoesTexto {
     color: #f5f3f7;
     text-align: left;
@@ -33,18 +35,28 @@ color: #f5f3f7;
     font-size: 15px;
     line-height: 1.2;
     margin-bottom: 20px;
+
 }
 
 .imagem {
     display: flex;
     justify-content: right;
-    align-items: center;
-    margin-top: 1px;
-    height: 0.1%;
+    align-items: flex-start;
+    margin-top: -20px;
+    height: auto;
     width: 124%;
-    background-size: contain;    
-    position: relative;
-    color: #aa5cdb;
+    margin-top: -385px;
+
+}
+
+#informacoes_baixo {
+    align-items: center;
+
+
+}
+
+#informacoes_baixo > .primeiro {
+    background-color: 
 }
 
 main {
@@ -55,6 +67,6 @@ main {
     border-radius: 6px;
     background-color: #1d1b3b;
     padding: 40px;
-    margin: 70px auto;
+    margin: 100px auto;
 
 }
