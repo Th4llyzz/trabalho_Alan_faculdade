@@ -33,4 +33,4 @@ O projeto possui:
 
 <h3> Objetivo</h3>
 
-O objetivo desse projeto foi praticar HTML e CSS e aprender melhor como organizar os elementos de uma página e deixar o conteudo mais organizado.
+Eu entendi que o objetivo desse trabalho foi praticar HTML e CSS e aprender melhor como organizar os elementos de uma pagina e deixar o conteudo mais organizado.
