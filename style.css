@@ -88,30 +88,30 @@ height: 100%;
 object-fit: cover;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
 
- main {
- width: 90%;
- height: auto;
- flex-direction: column;
-}
+    main {
+        width: 92%;
+    }
 
-.imagem {
-width: 100%;
-height: 240px;
-}
+    .imagem {
+        height: 190px;
+    }
 
-.informacoes_quadrado {
-width: 100%;
-text-align: center;
-}
+    .informacoes_quadrado {
+        padding: 25px 20px;
+    }
 
-.informacoesTexto {
-text-align: center;
-}
+    .informacoesTitulo h1 {
+        font-size: 23px;
+    }
 
-#informacoes_baixo {
-flex-direction: column;
+    .informacoesTexto {
+        font-size: 13px;
+    }
 
-}
+    #informacoes_baixo {
+        gap: 20px;
+    }
+
 }
