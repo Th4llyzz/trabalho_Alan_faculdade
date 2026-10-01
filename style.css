@@ -1,3 +1,5 @@
+
+
 body {
 font-family: Arial, sans-serif;
 display: flex;
@@ -8,6 +10,7 @@ background-color: #090b1a;
 
 }
 
+/* aqui fica ajeitado a parte do titulo */
 .informacoesTitulo > h1 {
 padding: 15px;
 border-radius: 0px;
@@ -25,6 +28,7 @@ font-size: 15px;
 margin-bottom: 20px;
 }
 
+/* aqui fica ajeitado as informaçoes principais dai */
 .informacoesTexto {
 color: white;
  text-align: left;
@@ -33,6 +37,8 @@ font-size: 15px;
 line-height: 1.2;
 margin-bottom: 20px;
 }
+
+/* aqui fica a parte q eu usei o DIV pra ajeitar as informaçoes dai  */
 
 #informacoes_baixo {
 align-items: center;
@@ -65,6 +71,8 @@ background-color: #1c1a38;
 padding: 0;
 margin: 100px auto;
 }
+
+/* aqui fica a parte de section q eu usei pra ajeitar as informaçoes dai  */
 .informacoes_quadrado {
 box-sizing: border-box;
 width: 50%;
@@ -72,7 +80,7 @@ padding: 40px;
 
 }
 
-
+/* aqui fica ajeitado a imagem dai */
 .imagem {
 width: 50%;
 height: 100%;
@@ -88,6 +96,7 @@ height: 100%;
 object-fit: cover;
 }
 
+/* aqui fica a organizacao da parte do celular */
 @media (max-width: 400px) {
 
     main {
