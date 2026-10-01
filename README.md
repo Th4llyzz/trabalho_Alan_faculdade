@@ -1,4 +1,5 @@
-<H1> Componente de card de prévia de estatísticas </H1>
+<H1> Componente de card de prévia de estatísticas </H1> 
+<img width="1661" height="875" alt="image" src="https://github.com/user-attachments/assets/2c3b4c0c-997a-46b5-bd91-2a6b0817f292" />
 
 <H3>Sobre o projeto</H3>
 
