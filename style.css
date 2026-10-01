@@ -1,3 +1,5 @@
+
+
 body {
 font-family: Arial, sans-serif;
 display: flex;
@@ -8,6 +10,7 @@ background-color: #090b1a;
 
 }
 
+/* aqui fica ajeitado a parte do titulo */
 .informacoesTitulo > h1 {
 padding: 15px;
 border-radius: 0px;
@@ -19,14 +22,13 @@ font-size: 30px;
 .informacoesTitulo {
 text-align: left;
 font-family: 'Arial', sans-serif;
-color:white;
+color: white;
 font-size: 15px;
  line-height: 1.2;
 margin-bottom: 20px;
 }
 
 /* aqui fica ajeitado as informaçoes principais dai */
-
 .informacoesTexto {
 color: white;
  text-align: left;
@@ -36,7 +38,7 @@ line-height: 1.2;
 margin-bottom: 20px;
 }
 
-/* aqui fica ajeitado as informaçoes pequenas dai */
+/* aqui fica a parte q eu usei o DIV pra ajeitar as informaçoes dai  */
 
 #informacoes_baixo {
 align-items: center;
@@ -71,7 +73,6 @@ margin: 100px auto;
 }
 
 /* aqui fica a parte de section q eu usei pra ajeitar as informaçoes dai  */
-
 .informacoes_quadrado {
 box-sizing: border-box;
 width: 50%;
@@ -80,7 +81,6 @@ padding: 40px;
 }
 
 /* aqui fica ajeitado a imagem dai */
-
 .imagem {
 width: 50%;
 height: 100%;
