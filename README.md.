@@ -1,0 +1,35 @@
+<H1> Componente de card de prévia de estatísticas </H1>
+
+<H3>Sobre o projeto</H3>
+
+Esse projeto foi feito usando HTML e CSS. A ideia foi criar um card com informações sobre análise de dados.
+
+No card temos um título, um texto explicando o assunto, algumas informações com números e uma imagem.
+
+<H3>Tecnologias usadas</H3>
+
+* HTML
+* CSS
+
+<H3>Como foi feito </h3>
+
+No HTML foi criada a estrutura do card, separando a parte das informações e a parte da imagem.
+
+No CSS foi feita a parte visual do projeto, como as cores, tamanho, espaçamento, fonte e posição dos elementos.
+
+Também foi usado o Flexbox para organizar as informações dentro do card.
+<H3>Responsividade</H3>
+
+Foi colocado um ajuste para telas menores. Quando a tela fica pequena, o card muda sua organização para que as informações e a imagem fiquem uma embaixo da outra.
+
+<H3> Estrutura dos arquivos </H3>
+
+O projeto possui:
+
+* index.html – arquivo principal da página.
+* style.css – arquivo onde está a parte de deixar bonito a pagina.
+* image-header-desktop.jpg – uma imagem que foi usada no card.
+
+<h3> Objetivo</h3>
+
+O objetivo desse projeto foi praticar HTML e CSS e aprender melhor como organizar os elementos de uma página e deixar o conteudo mais organizado.
